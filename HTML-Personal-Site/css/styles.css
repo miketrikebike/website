@@ -1,3 +1,5 @@
+/*  Tag Selectors */
+
 body {
     background-color: rgb(215, 234, 241);
 }
@@ -15,5 +17,34 @@ h1,
 h3 {
 
     color: #5265a5;
+
+}
+
+img:hover {
+
+    background-color: coral;
+}
+
+
+/* Class Selectors */
+
+.dinosaur {
+
+    background-color: chartreuse;
+}
+
+.ninja {
+
+    background-color: chocolate;
+}
+
+
+
+
+/* ID Selectors */
+
+#heading {
+
+    color: rgb(255, 0, 234);
 
 }
